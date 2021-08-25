@@ -14,6 +14,7 @@
 ### You can find me in:
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Souarvdey777 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <!--
 **Lucas-WF/Lucas-WF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +33,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/lucas-wagner-fernandes/
 [instagram]: https://www.instagram.com/lusca_wagner/
+[telegram]: https://t.me/Lucas_WF
