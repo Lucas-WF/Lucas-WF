@@ -1,5 +1,7 @@
-### Hi,
-### I'm 18 years old Self-taught developer from Brazil.
+### Hey 👋, I'm Lucas!
+### I'm 18 years old self-taught developer from Brazil.
+
+
 
 ### Languages & Tools:
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
@@ -9,7 +11,7 @@
 ### My Github:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-WF&show_icons=true&hide_border=true)
 
-### You can find me:
+### You can find me in:
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
