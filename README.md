@@ -2,8 +2,11 @@
 ### I'm 18 years old self-taught developer from Brazil.
 
 🔭 I’m planning for a Project to create some algorithms for ethical hacking
+
 🌱 I’m currently learning Reverse engineering
+
 📫 I want to learn Flask/Django, JS and their famous frameworks, and for the future Assembly
+
 🤔 I'm looking for a job
 
 ### Languages & Tools:
