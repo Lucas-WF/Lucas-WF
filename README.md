@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://www.linkedin.com/in/lucas-wagner-fernandes/
-[instagram]: https://www.instagram.com/lusca_wagner/
 [telegram]: https://t.me/Lucas_WF
 [medium]: https://medium.com/@lucas.wf
