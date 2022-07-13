@@ -1,11 +1,11 @@
 ### Hey 👋, I'm Lucas!
-### I'm 18 years old self-taught developer from Brazil.
+### I'm 19 years old self-taught developer from Brazil.
 
-🔭 I’m planning for a Project to create some algorithms for ethical hacking
+🔭 I’m planning for a Project to create a Discord Bot
 
-🌱 I’m currently learning Reverse engineering
+🌱 I’m currently learning Node.js, Dart & Flutter
 
-📫 I want to learn Flask/Django, JS and their famous frameworks, and for the future Assembly
+📫 I want to improve my capabilities creating REST API's, and developing full-stack applications
 
 ### Languages & Tools:
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
