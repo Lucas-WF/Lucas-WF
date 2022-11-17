@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Lucas!
-### I'm 19 years old self-taught developer from Brazil.
+### I'm 20 years old self-taught developer from Brazil.
 
 🔭 I’m planning for a Project to create a Discord Bot
 
