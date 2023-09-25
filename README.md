@@ -17,8 +17,8 @@
 
 ### You can find me in:
 [<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white">][linkedin]
-[<img align="left" alt="Souarvdey777 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Souarvdey777 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img src="https://img.shields.io/badge/-Telegram-white?style=rounded&logo=telegram&logoColor=blue" />][telegram]
+[<img src="https://img.shields.io/badge/-Medium-white?style=rounded&logo=medium&logoColor=black" />][medium]
 
 <!--
 **Lucas-WF/Lucas-WF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
